@@ -1,2 +1,2 @@
 # TDD-Python
-This is code is all of my practise
+This code is for practise
